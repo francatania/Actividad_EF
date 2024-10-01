@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\bin\Debug\net8.0\TurnosBack.deps.json
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\bin\Debug\net8.0\TurnosBack.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\bin\Debug\net8.0\TurnosBack.pdb
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\refint\TurnosBack.dll
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\TurnosBack.pdb
+C:\Users\franc\OneDrive\Escritorio\Apuntes UTN\Programación II\Repaso\2_7\TurnosBack\TurnosBack\obj\Debug\net8.0\ref\TurnosBack.dll
